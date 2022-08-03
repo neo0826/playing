@@ -22,13 +22,5 @@ client.commands = new Collection();
 client.on('ready', () => {
     client.user.setActivity(`Soon`,{ type: 'PLAYING' });
 })
-//////////coded by ANO
 
-client.on("ready", () => {
-  var join = client.channels.get(""); /// id voice
-  if (join) join.join();
-});
-
-
-//////ANOxDevV
-client.login("Nzc5MDA3Njg3MjQ1Mjk5NzI0.G41J8d.VUlFkqUZYtJgCsi2P0erllH81_FPEcJpMhS_Ps");
+client.login('Nzc5MDA3Njg3MjQ1Mjk5NzI0.G41J8d.VUlFkqUZYtJgCsi2P0erllH81_FPEcJpMhS_Ps');
