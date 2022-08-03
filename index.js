@@ -20,7 +20,7 @@ client.commands = new Collection();
 //////////coded by ANO
 
 client.on('ready', () => {
-    client.user.setActivity(`ANOxDevV`,{ type: 'PLAYING' });
+    client.user.setActivity(`Soon`,{ type: 'PLAYING' });
 })
 //////////coded by ANO
 
@@ -31,4 +31,4 @@ client.on("ready", () => {
 
 
 //////ANOxDevV
-client.login("");
+client.login("Nzc5MDA3Njg3MjQ1Mjk5NzI0.G41J8d.VUlFkqUZYtJgCsi2P0erllH81_FPEcJpMhS_Ps");
