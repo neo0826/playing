@@ -20,7 +20,7 @@ client.commands = new Collection();
 //////////coded by ANO
 
 client.on('ready', () => {
-    client.user.setActivity(`Verified🎉 - Working The bot!`,{ type: 'PLAYING' });
+    client.user.setActivity(`Verified🎉`,{ type: 'PLAYING' });
 })
 
 client.login('ODAwNDQyMjQzNjk3MjEzNDQy.GYNCh9.ob8Fetr0F0jeBTBp2z_CaJ1yBOq1ZGaK8tfg8Y');
