@@ -23,4 +23,4 @@ client.on('ready', () => {
     client.user.setActivity(`Verified🎉`,{ type: 'PLAYING' });
 })
 
-client.login('ODAwNDQyMjQzNjk3MjEzNDQy.GYNCh9.ob8Fetr0F0jeBTBp2z_CaJ1yBOq1ZGaK8tfg8Y');
+client.login('ODAwNDQyMjQzNjk3MjEzNDQy.GtdqmM.fNMvjbCOxH4UmjHvEJlivKNHfMnToPwa7SCITY');
