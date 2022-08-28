@@ -20,7 +20,7 @@ client.commands = new Collection();
 //////////coded by ANO
 
 client.on('ready', () => {
-    client.user.setActivity(`Verified🎉`,{ type: 'PLAYING' });
+    client.user.setActivity(`Updating`,{ type: 'PLAYING' });
 })
 
-client.login('ODAwNDQyMjQzNjk3MjEzNDQy.GtdqmM.fNMvjbCOxH4UmjHvEJlivKNHfMnToPwa7SCITY');
+client.login('ODAwNDQyMjQzNjk3MjEzNDQy.GBV0cJ.6ZHvlyqjJLC4MvTKDzFdLHY0vBlD-GcPbiHBKA');
